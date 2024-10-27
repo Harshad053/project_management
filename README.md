@@ -89,6 +89,12 @@ below
  - Input:
  {'project_name' : 'Project A', 'client' : 1, 'users' : [1]}
 
+### Project Assigned
+
+- Request: POST /api/projects/assigned/
+
+
+
 ## Database Configuration
 
 This project uses MySQL (or PostgreSQL if configured). Update database settings in .env as shown
